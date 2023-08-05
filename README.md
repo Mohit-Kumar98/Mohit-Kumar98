@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-kumar98&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-kumar98" /> </p>
 
-- 👨‍💻 All of my projects are available at [mohit-portfolio0.netlify.app](mohit-portfolio0.netlify.app)
+- 👨‍💻 Check out my full portfolio at [mohit-portfolio0.netlify.app](https://mohit-portfolio0.netlify.app)!
 
 - 💬 Ask me about **MERN**
 
